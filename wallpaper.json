@@ -30,11 +30,323 @@
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
-    }
+{
+"id": 1,
+"name_category": "Among Us",
+"title": "Among Us  1",
+"image": "https://1.bp.blogspot.com/-3QzMLMF3dUA/YFYiCk0YhXI/AAAAAAAAAGQ/6NKoEAF9_nUZ5p8KrA0MXqKC_vBRO3zwQCLcBGAsYHQ/s794/amo%2B%252852%2529.jpg"
+},
+{
+"id": 2,
+"name_category": "Among Us",
+"title": "Among Us  2",
+"image": "https://1.bp.blogspot.com/-bvhlPHjnK2M/YFYiCoaja3I/AAAAAAAAAGM/5yvQf_9C_8cLJlO9ml-mR6vHdF__gaspQCLcBGAsYHQ/s400/amo%2B%252851%2529.jpg"
+},
+{
+"id": 3,
+"name_category": "Among Us",
+"title": "Among Us  3",
+"image": "https://1.bp.blogspot.com/-J1X8iDXha2o/YFYiCsK9X4I/AAAAAAAAAGU/rQAR8rVV-FET35vJbZK-c-5_pIHb3mqtQCLcBGAsYHQ/s1007/amo%2B%252850%2529.jpg"
+},
+{
+"id": 4,
+"name_category": "Among Us",
+"title": "Among Us  4",
+"image": "https://1.bp.blogspot.com/-RHFM8K-URm8/YFYiB0z3rPI/AAAAAAAAAGI/TEpkymYyEy4eNfyFwU5SxrgzIjg1bR_QwCLcBGAsYHQ/s1001/amo%2B%252849%2529.jpg"
+},
+{
+"id": 5,
+"name_category": "Among Us",
+"title": "Among Us  5",
+"image": "https://1.bp.blogspot.com/-vopAslEdpV8/YFYiB3XiD4I/AAAAAAAAAGA/VIvxRiuTNHUeZVCrjLY9jpcajT4Np-5BACLcBGAsYHQ/s1002/amo%2B%252848%2529.jpg"
+},
+{
+"id": 6,
+"name_category": "Among Us",
+"title": "Among Us  6",
+"image": "https://1.bp.blogspot.com/-bapBtVl7EAc/YFYiBV1KgEI/AAAAAAAAAF8/PIAy0UJ07_I1Ov8SssgXWwXiRABeso8pQCLcBGAsYHQ/s1002/amo%2B%252847%2529.jpg"
+},
+{
+"id": 7,
+"name_category": "Among Us",
+"title": "Among Us  7",
+"image": "https://1.bp.blogspot.com/-TMlBHQ-0BT4/YFYiBEc4TcI/AAAAAAAAAF4/1cuCR_vEiyM9c9_JaTHijWUIwZuPTyKygCLcBGAsYHQ/s1002/amo%2B%252846%2529.jpg"
+},
+{
+"id": 8,
+"name_category": "Among Us",
+"title": "Among Us  8",
+"image": "https://1.bp.blogspot.com/-BU2SdwBVsWQ/YFYiBDd3MRI/AAAAAAAAAF0/LYN0wSyg4T0BLZ4OImvGz39t63qOF6NDwCLcBGAsYHQ/s1128/amo%2B%252845%2529.jpg"
+},
+{
+"id": 9,
+"name_category": "Among Us",
+"title": "Among Us  9",
+"image": "https://1.bp.blogspot.com/-SN9GTDZyjUA/YFYiAsEEq4I/AAAAAAAAAFw/OHjDTVfgRdUT2beA0D5MLGHCC_cJZm73QCLcBGAsYHQ/s932/amo%2B%252844%2529.jpg"
+},
+{
+"id": 10,
+"name_category": "Among Us",
+"title": "Among Us  10",
+"image": "https://1.bp.blogspot.com/-iawglBNeBd0/YFYiAuFVb7I/AAAAAAAAAFs/sMfHF5RJ_r0rJpAuHnKzTVfXseqc24EhACLcBGAsYHQ/s1280/amo%2B%252843%2529.jpg"
+},
+{
+"id": 11,
+"name_category": "Among Us",
+"title": "Among Us  11",
+"image": "https://1.bp.blogspot.com/-xiuEsnQXWnI/YFYiAfc4_3I/AAAAAAAAAFo/Y_0UAr6Nn_4ELS0Zd8cEHJsDF2ZseqsFgCLcBGAsYHQ/s794/amo%2B%252842%2529.jpg"
+},
+{
+"id": 12,
+"name_category": "Among Us",
+"title": "Among Us  12",
+"image": "https://1.bp.blogspot.com/-UDOyuVKrWr8/YFYh_3lAlzI/AAAAAAAAAFk/GnpJ4lG-akodpKH46e2wZspTazceGggBgCLcBGAsYHQ/s1002/amo%2B%252841%2529.jpg"
+},
+{
+"id": 13,
+"name_category": "Among Us",
+"title": "Among Us  13",
+"image": "https://1.bp.blogspot.com/-afCNPW2mS9Y/YFYh_tonSmI/AAAAAAAAAFg/xsvYSOOLpIc1Gwiwmy9TggfZwa6cf3KnwCLcBGAsYHQ/s1001/amo%2B%252840%2529.jpg"
+},
+{
+"id": 14,
+"name_category": "Among Us",
+"title": "Among Us  14",
+"image": "https://1.bp.blogspot.com/-xIxgWE-EOH4/YFYh_SfvE-I/AAAAAAAAAFY/cFYmcJAERGQ-Z9IOGu5Rc9CTmE7dlaE-QCLcBGAsYHQ/s1280/amo%2B%252839%2529.jpg"
+},
+{
+"id": 15,
+"name_category": "Among Us",
+"title": "Among Us  15",
+"image": "https://1.bp.blogspot.com/-O8AtZXb9VHI/YFYh_MhABLI/AAAAAAAAAFU/R6V8H2LLG44a55-ujd-z9DV_fMGySpMdwCLcBGAsYHQ/s1280/amo%2B%252838%2529.jpg"
+},
+{
+"id": 16,
+"name_category": "Among Us",
+"title": "Among Us  16",
+"image": "https://1.bp.blogspot.com/-gdgQcYq_l58/YFYh-6mnc5I/AAAAAAAAAFQ/z3YIH1XUREg7-fE1VhiF0aBw3MU5_SUUgCLcBGAsYHQ/s1280/amo%2B%252837%2529.jpg"
+},
+{
+"id": 17,
+"name_category": "Among Us",
+"title": "Among Us  17",
+"image": "https://1.bp.blogspot.com/-ZuHVta6cUS4/YFYh-nnUwcI/AAAAAAAAAFM/BvsdktYkS00e4V7yvb_V7tSagF8N-S-kACLcBGAsYHQ/s1280/amo%2B%252836%2529.jpg"
+},
+{
+"id": 18,
+"name_category": "Among Us",
+"title": "Among Us  18",
+"image": "https://1.bp.blogspot.com/-paxUT3eOoQk/YFYh-V3wiII/AAAAAAAAAFI/kiCavj9hGqs_K6tpWqGVRknTqGKtIJVSwCLcBGAsYHQ/s1280/amo%2B%252835%2529.jpg"
+},
+{
+"id": 19,
+"name_category": "Among Us",
+"title": "Among Us  19",
+"image": "https://1.bp.blogspot.com/-AdiwgAwPbdA/YFYh-FXe8oI/AAAAAAAAAFE/R0pqE72oGUEx4n__KVNwZEAzvRPgf20lwCLcBGAsYHQ/s1280/amo%2B%252834%2529.jpg"
+},
+{
+"id": 20,
+"name_category": "Among Us",
+"title": "Among Us  20",
+"image": "https://1.bp.blogspot.com/-6ha8nJkEKuY/YFYh94pkgRI/AAAAAAAAAFA/I44RZxawTn4n3NifjhnoZX3E8hduOhaOQCLcBGAsYHQ/s1280/amo%2B%252833%2529.jpg"
+},
+{
+"id": 21,
+"name_category": "Among Us",
+"title": "Among Us  21",
+"image": "https://1.bp.blogspot.com/--Mdopnb2fRE/YFYh9g1q5kI/AAAAAAAAAE8/ZCBNH0-iFxU8dcK-NB0t-TWhiSgmd1nbACLcBGAsYHQ/s1280/amo%2B%252832%2529.jpg"
+},
+{
+"id": 22,
+"name_category": "Among Us",
+"title": "Among Us  22",
+"image": "https://1.bp.blogspot.com/-mm6C2OFTY8o/YFYh9duRzxI/AAAAAAAAAE4/4o-eKgnQ18A5o4lyOmXcfJpaYR6VfrTiQCLcBGAsYHQ/s1280/amo%2B%252831%2529.jpg"
+},
+{
+"id": 23,
+"name_category": "Among Us",
+"title": "Among Us  23",
+"image": "https://1.bp.blogspot.com/-zlexUel03Dk/YFYh9Wzom5I/AAAAAAAAAE0/rDCx4Qz8ZaYTJBwylWIWtBT8O_F1XiZ-wCLcBGAsYHQ/s1280/amo%2B%252830%2529.jpg"
+},
+{
+"id": 24,
+"name_category": "Among Us",
+"title": "Among Us  24",
+"image": "https://1.bp.blogspot.com/-mzal2gAkqMw/YFYh89Mw6eI/AAAAAAAAAEs/9tKiRMh6_ZsBUHaFoje3NKtwgxQMdAYrACLcBGAsYHQ/s1280/amo%2B%252829%2529.jpg"
+},
+{
+"id": 25,
+"name_category": "Among Us",
+"title": "Among Us  25",
+"image": "https://1.bp.blogspot.com/-laBQE_PIkTw/YFYh8pLzLFI/AAAAAAAAAEo/rTi9VH3N3T0BFDLF2vjMP7_bEW2Cq9ScwCLcBGAsYHQ/s1280/amo%2B%252828%2529.jpg"
+},
+{
+"id": 26,
+"name_category": "Among Us",
+"title": "Among Us  26",
+"image": "https://1.bp.blogspot.com/-zR8AnG1x7TU/YFYh8N9G_tI/AAAAAAAAAEk/ANcKC5tXQ0UchxhSjzYDOnJugryEkRS9ACLcBGAsYHQ/s1280/amo%2B%252827%2529.jpg"
+},
+{
+"id": 27,
+"name_category": "Among Us",
+"title": "Among Us  27",
+"image": "https://1.bp.blogspot.com/-ha37yHN8gT0/YFYh8GyyyPI/AAAAAAAAAEg/inkOdD4C_2oJ-MCW-SaonXUnjn7QPdBiwCLcBGAsYHQ/s1280/amo%2B%252826%2529.jpg"
+},
+{
+"id": 28,
+"name_category": "Among Us",
+"title": "Among Us  28",
+"image": "https://1.bp.blogspot.com/-R3a8xI076aI/YFYh78Fy49I/AAAAAAAAAEc/QbaPQCnKAtk_FXv6GcgVJz4sHd0SUSTgACLcBGAsYHQ/s1280/amo%2B%252825%2529.jpg"
+},
+{
+"id": 29,
+"name_category": "Among Us",
+"title": "Among Us  29",
+"image": "https://1.bp.blogspot.com/-ynII-CxwR7E/YFYh7S21-tI/AAAAAAAAAEU/46esSEeSvh4c6m_1A5wdqwqEt9mqTXdcACLcBGAsYHQ/s1280/amo%2B%252824%2529.jpg"
+},
+{
+"id": 30,
+"name_category": "Among Us",
+"title": "Among Us  30",
+"image": "https://1.bp.blogspot.com/-lgorsaaf8KM/YFYh7jf6JdI/AAAAAAAAAEY/-nDN5vbMMwMakNbGrTF3EB62wuoMjODoQCLcBGAsYHQ/s1280/amo%2B%252823%2529.jpg"
+},
+{
+"id": 31,
+"name_category": "Among Us",
+"title": "Among Us  31",
+"image": "https://1.bp.blogspot.com/-kMolcguwdSg/YFYh7O-DWmI/AAAAAAAAAEQ/ol29znWu-mMV_eeyu6auuXWvdKMWodiNgCLcBGAsYHQ/s1280/amo%2B%252822%2529.jpg"
+},
+{
+"id": 32,
+"name_category": "Among Us",
+"title": "Among Us  32",
+"image": "https://1.bp.blogspot.com/-x8jnLSv6g1g/YFYh6XlY92I/AAAAAAAAAEM/VXbv3pVoHu044M7Ow0etFb65Y-MGtgPIgCLcBGAsYHQ/s1280/amo%2B%252821%2529.jpg"
+},
+{
+"id": 33,
+"name_category": "Among Us",
+"title": "Among Us  33",
+"image": "https://1.bp.blogspot.com/-OaaJz1OAbjA/YFYh6Jqk3mI/AAAAAAAAAEE/QBv-AwdkZq8gerqPHtK3Oc5qDys7vmVYwCLcBGAsYHQ/s1280/amo%2B%252820%2529.jpg"
+},
+{
+"id": 34,
+"name_category": "Among Us",
+"title": "Among Us  34",
+"image": "https://1.bp.blogspot.com/-dHGeLiqdy-w/YFYh5lyYXMI/AAAAAAAAAEA/jzxaxWpOaLMTM2kk77iA7xpOyeBGGvRsACLcBGAsYHQ/s1280/amo%2B%252819%2529.jpg"
+},
+{
+"id": 35,
+"name_category": "Among Us",
+"title": "Among Us  35",
+"image": "https://1.bp.blogspot.com/-ZPLbRMCT7dM/YFYh5lFd7FI/AAAAAAAAAD8/ghHOOgnD6M0E0KyI5MMmse7zFqO07s09ACLcBGAsYHQ/s1280/amo%2B%252818%2529.jpg"
+},
+{
+"id": 36,
+"name_category": "Among Us",
+"title": "Among Us  36",
+"image": "https://1.bp.blogspot.com/-Bxw2ZMByEu8/YFYh5cllEVI/AAAAAAAAAD4/lAkgNihexRYhpyDeIbcX19iAYCLWZktJgCLcBGAsYHQ/s1280/amo%2B%252817%2529.jpg"
+},
+{
+"id": 37,
+"name_category": "Among Us",
+"title": "Among Us  37",
+"image": "https://1.bp.blogspot.com/-i5fYj_uC4WI/YFYh5A5BREI/AAAAAAAAAD0/dLQclWfugA0ookjf9INSr_CZptl3U5QhgCLcBGAsYHQ/s1280/amo%2B%252816%2529.jpg"
+},
+{
+"id": 38,
+"name_category": "Among Us",
+"title": "Among Us  38",
+"image": "https://1.bp.blogspot.com/-QFKxApwlQVQ/YFYh4wHulYI/AAAAAAAAADw/yLaEYt0t-b0WR2o2fu6tkQOvismtkHLwQCLcBGAsYHQ/s1280/amo%2B%252815%2529.jpg"
+},
+{
+"id": 39,
+"name_category": "Among Us",
+"title": "Among Us  39",
+"image": "https://1.bp.blogspot.com/-QTqSwa1Cnn4/YFYh4l7S4kI/AAAAAAAAADs/oGlkCObrz34NaNthyQZonLuFH19fWSRYQCLcBGAsYHQ/s1280/amo%2B%252814%2529.jpg"
+},
+{
+"id": 40,
+"name_category": "Among Us",
+"title": "Among Us  40",
+"image": "https://1.bp.blogspot.com/-LyAsDnVwUEY/YFYh4XmySfI/AAAAAAAAADo/Yibg1ECa29wZ5WddV5Z-jwoDN5LfqyNngCLcBGAsYHQ/s1280/amo%2B%252813%2529.jpg"
+},
+{
+"id": 41,
+"name_category": "Among Us",
+"title": "Among Us  41",
+"image": "https://1.bp.blogspot.com/-13k6vMp3XGw/YFYh4AFk8PI/AAAAAAAAADk/4wg_nNUltxcGqgtPZ13o7OAalEirsdwVwCLcBGAsYHQ/s1280/amo%2B%252812%2529.jpg"
+},
+{
+"id": 42,
+"name_category": "Among Us",
+"title": "Among Us  42",
+"image": "https://1.bp.blogspot.com/-ifIrOa7XhJg/YFYh3-N9WTI/AAAAAAAAADg/JePjIWzEAboNoa0Ki_hW0HMs_nB4u6cGACLcBGAsYHQ/s1280/amo%2B%252811%2529.jpg"
+},
+{
+"id": 43,
+"name_category": "Among Us",
+"title": "Among Us  43",
+"image": "https://1.bp.blogspot.com/-X__p-61VHos/YFYh3tAvFuI/AAAAAAAAADc/d2-w_EoghnEdnJucb8EbI2c1DLEn0569gCLcBGAsYHQ/s1280/amo%2B%252810%2529.jpg"
+},
+{
+"id": 44,
+"name_category": "Among Us",
+"title": "Among Us  44",
+"image": "https://1.bp.blogspot.com/-XyoejHsupX8/YFYiEKuzTtI/AAAAAAAAAGk/d5x858u7QEw-Cd32sIwdCWjbu1QmIapoQCLcBGAsYHQ/s1280/amo%2B%25289%2529.jpg"
+},
+{
+"id": 45,
+"name_category": "Among Us",
+"title": "Among Us  45",
+"image": "https://1.bp.blogspot.com/-q4y-5eYp6UQ/YFYiDtX5wMI/AAAAAAAAAGg/n0HJEyOuHusqIUbGAfX60jXd2dK3R8KGgCLcBGAsYHQ/s1280/amo%2B%25288%2529.jpg"
+},
+{
+"id": 46,
+"name_category": "Among Us",
+"title": "Among Us  46",
+"image": "https://1.bp.blogspot.com/-AX0llD-XXPs/YFYiDgjjtDI/AAAAAAAAAGc/0CCYvdy-AiwHS_Xm8s-n0aMDrfmdXcTnQCLcBGAsYHQ/s1280/amo%2B%25287%2529.jpg"
+},
+{
+"id": 47,
+"name_category": "Among Us",
+"title": "Among Us  47",
+"image": "https://1.bp.blogspot.com/--Cgtn8jLF3E/YFYiDauiQVI/AAAAAAAAAGY/yxjVJW9j5RkS4MAmhSwy0kYnbnB5ieitQCLcBGAsYHQ/s1280/amo%2B%25286%2529.jpg"
+},
+{
+"id": 48,
+"name_category": "Among Us",
+"title": "Among Us  48",
+"image": "https://1.bp.blogspot.com/-lSGPuRNMlfQ/YFYiCDUkR7I/AAAAAAAAAGE/XEpg7NAsckQj0W4VQsUYH0wo_VKVDJJ0gCLcBGAsYHQ/s1280/amo%2B%25285%2529.jpg"
+},
+{
+"id": 49,
+"name_category": "Among Us",
+"title": "Among Us  49",
+"image": "https://1.bp.blogspot.com/-b88OxYgWeys/YFYh_iVuliI/AAAAAAAAAFc/F7Frk780BxcrYU3xfYR7Ys9nNF5mcRJ1wCLcBGAsYHQ/s1002/amo%2B%25284%2529.jpg"
+},
+{
+"id": 50,
+"name_category": "Among Us",
+"title": "Among Us  50",
+"image": "https://1.bp.blogspot.com/-7hdooBegY8s/YFYh8-muPFI/AAAAAAAAAEw/sDOEi4-vOSoZ1RxW03NLSpuwEuhux1SrwCLcBGAsYHQ/s1074/amo%2B%25283%2529.jpg"
+},
+{
+"id": 51,
+"name_category": "Among Us",
+"title": "Among Us  51",
+"image": "https://1.bp.blogspot.com/-6NaLemGS1Dw/YFYh6L6XFcI/AAAAAAAAAEI/W262OKsGNdw2kABteGBjZJ8eeFxQfMxTgCLcBGAsYHQ/s1002/amo%2B%25282%2529.jpg"
+},
+{
+"id": 52,
+"name_category": "Among Us",
+"title": "Among Us  52",
+"image": "https://1.bp.blogspot.com/-Tz-uYzEbrqg/YFYh3NRWOcI/AAAAAAAAADU/J0qeCF7RC88tRz01d91oxGFaqGaQ0QZ8gCLcBGAsYHQ/s1002/amo%2B%25281%2529.jpg"
+},
+{
+"id": 53,
+"name_category": "Among Us",
+"title": "Among Us  53",
+"image": "https://1.bp.blogspot.com/-mtbi5soJl80/YFYh3YIOPKI/AAAAAAAAADY/OFQlVpYrBqcAo3vBOPe411doMlxMRksrQCLcBGAsYHQ/s1599/18.jpg"
+}
   ]
 }
